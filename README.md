@@ -1,4 +1,4 @@
-# Progetto-Sistemo-Operativi-19-20
+# Progetto-Sistemi-Operativi-19-20
 Simulazione di un supermercato in linguaggio c (multithreading).
 
 Per eseguire il progetto basta digitare da linea di comando "make testQ" o "make testH" in base al tipo di terminazione di cui si necessita (SIGQUIT o SIGHUP).
