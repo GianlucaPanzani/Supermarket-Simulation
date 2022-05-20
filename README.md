@@ -1,4 +1,4 @@
-# Progetto-Sistemi-Operativi-19-20
+# Supermarket Simulation
 Simulazione di un supermercato in linguaggio c (multithreading).
 
 Per compilare il codice si usa il comando "make".
